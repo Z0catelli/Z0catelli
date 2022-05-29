@@ -1,12 +1,27 @@
-### Hi there 👋
-
-<!--
-**Z0catelli/Z0catelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+### Olá! Aqui está um pouco sobre mim:
 
 - 🌱 Estou aprendendo Java e POO
 - 👯 Procuro colaboração em Web Design
 - 🤔 Procuro ajuda com Front-End e Web Design 
 - ⚡ Fun fact: Já fiz um curso de introdução a programação com 12 anos, sobre Python, C++, HTML e CSS
--->
+
+<div align="center">
+  <a href="https://github.com/Z0catelli">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Z0catelli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Z0catelli&layout=compact&langs_count=7&theme=dracula"/>
+</div>
+  
+  <div style="display: inline_block"><br>
+  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"> 
+  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg">  
+  <img align="center" alt="Rafa-Ts" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg">  
+  <img align="center" alt="Rafa-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg">    
+  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg">
+</div>
+  
+  ##
+  <div>
+  <a href="https://www.instagram.com/_zocatelli/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:gabrielazge@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/gabrielazocatelli/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  </div>
