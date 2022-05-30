@@ -1,4 +1,4 @@
-### Olá! Aqui está um pouco sobre mim:
+### 🌸Olá! Aqui está um pouco sobre mim:🌸
 
 - Estou aprendendo Java e POO
 - Procuro ajuda com Front-End e Web Design 
