@@ -1,8 +1,8 @@
 ### 🌸Olá! Aqui está um pouco sobre mim:🌸
 
-- Tenho interesse em aprender Python, HTML, CSS e PHP
-- Procuro ajuda com Front-End e Web Design 
-- Fun fact: Já fiz um curso de introdução a programação com 12 anos, sobre Python, C++, HTML e CSS
+- Tenho interesse em aprender Python, HTML, CSS e PHP.
+- Procuro ajuda com Front-End e Web Design.
+- Fun fact: Já fiz um curso onde fui introduzida à lógica de programação e o básico de desenvolvimento com Python, C++, HTML e CSS.
 
 <div align="center">
   <a href="https://github.com/Z0catelli">
