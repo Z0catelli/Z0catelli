@@ -1,7 +1,7 @@
 ### 🌸Olá! Aqui está um pouco sobre mim:🌸
 
-- Tenho interesse em aprender Python, HTML, CSS e PHP.
-- Procuro ajuda com Front-End e Web Design.
+- Tenho interesse em aprender mais sobre Python, HTML, CSS e JavaScript.
+- Gosto da área de Front-End e Web Design.
 - Fun fact: Já fiz um curso onde fui introduzida à lógica de programação e o básico de desenvolvimento com Python, C++, HTML e CSS.
 
 <div align="center">
