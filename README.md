@@ -14,15 +14,15 @@
 
 <h2 align="left">Learning</h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=javascript,html,css,nodejs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=javascript,html,css,nodejs,react)](https://skills.thijs.gg)
 
 <h2 align="left">Interested in</h2>
 
-[![My Skills](https://skills.thijs.gg/icons?i=javascript,react,docker,aws,flask,nextjs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=docker,aws,flask,python)](https://skills.thijs.gg)
  
 <h2 align="left">Development Knowledges</h2>
  
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,java,js,git,github,linux,bash,vim,mysql,sequelize,nodejs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,java,git,linux,bash,mysql,nodejs)](https://skills.thijs.gg)
 
 <h2 align="left">Connect with me</h2>
 
