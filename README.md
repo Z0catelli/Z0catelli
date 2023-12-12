@@ -22,7 +22,7 @@
  
 <h2 align="left">Development Knowledges</h2>
  
-[![My Skills](https://skills.thijs.gg/icons?i=html,css,java,git,linux,bash,mysql,nodejs)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=html,css,js,java,git,linux,bash,mysql,nodejs)](https://skills.thijs.gg)
 
 <h2 align="left">Connect with me</h2>
 
