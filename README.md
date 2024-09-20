@@ -6,7 +6,7 @@
 
 <h2 align="left">About me </h2>
 <p>🌸  Analysis and Systems Development at Universidade São Judas Tadeu.</p>
-<p>🌸  Main languages: Java, JavaScript, CSS and HTML. </p>
+<p>🌸  Security Analist at Sec4you. </p>
 <p>🌸  In the way to be a Full Stack developer.</p>
 <br>
 
